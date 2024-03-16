@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarme", "Alarme.csproj", "{AEDEBCFF-50F2-4D0C-884E-0A21DB56AF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEDEBCFF-50F2-4D0C-884E-0A21DB56AF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDEBCFF-50F2-4D0C-884E-0A21DB56AF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDEBCFF-50F2-4D0C-884E-0A21DB56AF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDEBCFF-50F2-4D0C-884E-0A21DB56AF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E73AED58-5574-41A4-9FB3-1068D8B05780}
+	EndGlobalSection
+EndGlobal
